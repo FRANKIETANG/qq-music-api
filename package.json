@@ -1,0 +1,26 @@
+{
+  "name": "qq-music-api",
+  "version": "1.0.0",
+  "description": "QQ Music API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRANKIETANG/qq-music-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FRANKIETANG/qq-music-api/issues"
+  },
+  "homepage": "https://github.com/FRANKIETANG/qq-music-api#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
+  }
+}
